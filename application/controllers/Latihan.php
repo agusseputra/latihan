@@ -6,7 +6,7 @@ class Latihan extends CI_Controller{
         
     }
     function index(){
-        $data['title']="Latihan HTML";
+        $data['title']="Latihan HTML2";
         $data['meta']="ini adalah produk untuk Latihan HTML";
         $data['content']='beranda';
         $data['sidebar']='sidebar';
